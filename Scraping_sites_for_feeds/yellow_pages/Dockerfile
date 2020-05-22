@@ -1,0 +1,22 @@
+FROM r4.getaura.ru/magistr_spark22_zesty:latest
+
+MAINTAINER Aleksandr Aksyonov <aksenov@skydns.ru>
+
+RUN apt-get update &&\
+        apt-get install -y --no-install-recommends apt-utils
+
+RUN apt-get install -y --no-install-recommends \
+        ca-certificates pkg-config patch \
+        libpng-dev libfreetype6 libfreetype6-dev gcc \
+        g++ python-dev unzip
+
+RUN pip install --upgrade pip
+
+RUN pip install python-nvd3
+        
+RUN pip install bs4 \
+        tldextract==2.2.0 \
+        pandas==0.23.4 \
+        lxml==4.3.2 
+
+COPY . /yellowpages/

@@ -1,0 +1,698 @@
+cat	url	lab
+Agricultural Production	https://www.europages.co.uk/companies/pg-{}/agricultural%20production.html	34.0
+Agriculture - import-export	https://www.europages.co.uk/companies/pg-{}/agriculture%20-%20import-export.html	34.0
+Animals & Livestock	https://www.europages.co.uk/companies/pg-{}/animals%20&%20livestock.html	34.0
+Bedding plants, bulbs and seeds	https://www.europages.co.uk/companies/pg-{}/bedding%20plants,%20bulbs%20and%20seeds.html	53.0
+Beekeeping and silk culture	https://www.europages.co.uk/companies/pg-{}/beekeeping%20and%20silk%20culture.html	53.0
+Cattle	https://www.europages.co.uk/companies/pg-{}/cattle.html	34.0
+Cereals and grains	https://www.europages.co.uk/companies/pg-{}/cereals%20and%20grains.html	34.0
+Dried fruits	https://www.europages.co.uk/companies/pg-{}/dried%20fruits.html	34.0
+Eggs	https://www.europages.co.uk/companies/pg-{}/eggs.html	34.0
+Fertilizers and soil conditioners	https://www.europages.co.uk/companies/pg-{}/fertilizers%20and%20soil%20conditioners.html	34.0
+Fish	https://www.europages.co.uk/companies/pg-{}/fish.html	34.0
+Fish - import-export	https://www.europages.co.uk/companies/pg-{}/fish%20-%20import-export.html	34.0
+Fruit	https://www.europages.co.uk/companies/pg-{}/fruit.html	34.0
+Fruits and vegetables - import-export	https://www.europages.co.uk/companies/pg-{}/fruits%20and%20vegetables%20-%20import-export.html	34.0
+Fur farming	https://www.europages.co.uk/companies/pg-{}/fur%20farming.html	34.0
+Horses and donkeys	https://www.europages.co.uk/companies/pg-{}/horses%20and%20donkeys.html	34.0
+Horticulture & Forestry	https://www.europages.co.uk/companies/pg-{}/horticulture%20&%20forestry.html	53.0
+Horticulture - import-export	https://www.europages.co.uk/companies/pg-{}/horticulture%20-%20import-export.html	53.0
+Indoor and greenhouse plants, floristry	https://www.europages.co.uk/companies/pg-{}/indoor%20and%20greenhouse%20plants,%20floristry.html	53.0
+Livestock - import-export	https://www.europages.co.uk/companies/pg-{}/livestock%20-%20import-export.html	34.0
+Nurseries	https://www.europages.co.uk/companies/pg-{}/nurseries.html	53.0
+Pets	https://www.europages.co.uk/companies/pg-{}/pets.html	34.0
+Pigs	https://www.europages.co.uk/companies/pg-{}/pigs.html	34.0
+Poultry, rabbits and game - farming	https://www.europages.co.uk/companies/pg-{}/poultry,%20rabbits%20and%20game%20-%20farming.html	34.0
+Sheep and goats	https://www.europages.co.uk/companies/pg-{}/sheep%20and%20goats.html	34.0
+Shellfish and crustaceans	https://www.europages.co.uk/companies/pg-{}/shellfish%20and%20crustaceans.html	34.0
+Textile plants	https://www.europages.co.uk/companies/pg-{}/textile%20plants.html	34.0
+Vegetables, edible roots and tubers	https://www.europages.co.uk/companies/pg-{}/vegetables,%20edible%20roots%20and%20tubers.html	53.0
+Beer	https://www.europages.co.uk/companies/pg-{}/beer.html	14.0
+Biscuits	https://www.europages.co.uk/companies/pg-{}/biscuits.html	34.0
+Bread, cakes and pastries	https://www.europages.co.uk/companies/pg-{}/bread,%20cakes%20and%20pastries.html	34.0
+Champagne and sparkling wines	https://www.europages.co.uk/companies/pg-{}/champagne%20and%20sparkling%20wines.html	14.0
+Cheese	https://www.europages.co.uk/companies/pg-{}/cheese.html	34.0
+Cider and perry	https://www.europages.co.uk/companies/pg-{}/cider%20and%20perry.html	14.0
+Cocoa and chocolate	https://www.europages.co.uk/companies/pg-{}/cocoa%20and%20chocolate.html	34.0
+Coffee and tea	https://www.europages.co.uk/companies/pg-{}/coffee%20and%20tea.html	34.0
+Condiments, extracts and spices	https://www.europages.co.uk/companies/pg-{}/condiments,%20extracts%20and%20spices.html	34.0
+Confectionary	https://www.europages.co.uk/companies/pg-{}/confectionary.html	34.0
+Dairy products	https://www.europages.co.uk/companies/pg-{}/dairy%20products.html	34.0
+Dietary and organic foods	https://www.europages.co.uk/companies/pg-{}/dietary%20and%20organic%20foods.html	34.0
+Drinks	https://www.europages.co.uk/companies/pg-{}/drinks.html	34.0
+Drinks, soft	https://www.europages.co.uk/companies/pg-{}/drinks,%20soft.html	34.0
+Feeds for animal farming	https://www.europages.co.uk/companies/pg-{}/feeds%20for%20animal%20farming.html	34.0
+Fish, seafood and snails, preserved	https://www.europages.co.uk/companies/pg-{}/fish,%20seafood%20and%20snails,%20preserved.html	34.0
+Flour and semolina	https://www.europages.co.uk/companies/pg-{}/flour%20and%20semolina.html	34.0
+Food and beverage additives	https://www.europages.co.uk/companies/pg-{}/food%20and%20beverage%20additives.html	34.0
+Foods, precooked and gourmet	https://www.europages.co.uk/companies/pg-{}/foods,%20precooked%20and%20gourmet.html	34.0
+Frozen and deep-frozen foods	https://www.europages.co.uk/companies/pg-{}/frozen%20and%20deep-frozen%20foods.html	34.0
+Fruit preserves and jams	https://www.europages.co.uk/companies/pg-{}/fruit%20preserves%20and%20jams.html	34.0
+Fruits, dried	https://www.europages.co.uk/companies/pg-{}/fruits,%20dried.html	34.0
+Ice cream and sorbets	https://www.europages.co.uk/companies/pg-{}/ice%20cream%20and%20sorbets.html	34.0
+Import-export - food and agriculture	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20food%20and%20agriculture.html	34.0
+Juices, fruit and vegetable	https://www.europages.co.uk/companies/pg-{}/juices,%20fruit%20and%20vegetable.html	34.0
+Liquors and spirits	https://www.europages.co.uk/companies/pg-{}/liquors%20and%20spirits.html	14.0
+Meat	https://www.europages.co.uk/companies/pg-{}/meat.html	34.0
+Meat, preserved	https://www.europages.co.uk/companies/pg-{}/meat,%20preserved.html	34.0
+Meats	https://www.europages.co.uk/companies/pg-{}/meats.html	34.0
+Meats, cooked and cured	https://www.europages.co.uk/companies/pg-{}/meats,%20cooked%20and%20cured.html	34.0
+Mineral water	https://www.europages.co.uk/companies/pg-{}/mineral%20water.html	34.0
+Miscellaneous products of animal origin	https://www.europages.co.uk/companies/pg-{}/miscellaneous%20products%20of%20animal%20origin.html	34.0
+Offal	https://www.europages.co.uk/companies/pg-{}/offal.html	34.0
+Oils and fats, edible	https://www.europages.co.uk/companies/pg-{}/oils%20and%20fats,%20edible.html	34.0
+Pasta	https://www.europages.co.uk/companies/pg-{}/pasta.html	34.0
+Pet foods	https://www.europages.co.uk/companies/pg-{}/pet%20foods.html	34.0
+Sugar	https://www.europages.co.uk/companies/pg-{}/sugar.html	34.0
+Unrefined vegetable oils	https://www.europages.co.uk/companies/pg-{}/unrefined%20vegetable%20oils.html	34.0
+Vegetables, preserved	https://www.europages.co.uk/companies/pg-{}/vegetables,%20preserved.html	34.0
+Wines	https://www.europages.co.uk/companies/pg-{}/wines.html	14.0
+Wines - France	https://www.europages.co.uk/companies/pg-{}/wines%20-%20france.html	14.0
+Wines - Italy	https://www.europages.co.uk/companies/pg-{}/wines%20-%20italy.html	14.0
+Wines - Spain	https://www.europages.co.uk/companies/pg-{}/wines%20-%20spain.html	14.0
+Electricity - import-export	https://www.europages.co.uk/companies/pg-{}/electricity%20-%20import-export.html	34.0
+Electricity - production and distribution	https://www.europages.co.uk/companies/pg-{}/electricity%20-%20production%20and%20distribution.html	34.0
+Fuels, solid	https://www.europages.co.uk/companies/pg-{}/fuels,%20solid.html	34.0
+Gas and oil - exploitation	https://www.europages.co.uk/companies/pg-{}/gas%20and%20oil%20-%20exploitation.html	34.0
+Gemstones and precious minerals	https://www.europages.co.uk/companies/pg-{}/gemstones%20and%20precious%20minerals.html	34.0
+Import-export - energy and raw materials	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20energy%20and%20raw%20materials.html	34.0
+Marble and natural stones	https://www.europages.co.uk/companies/pg-{}/marble%20and%20natural%20stones.html	34.0
+Nuclear fuels	https://www.europages.co.uk/companies/pg-{}/nuclear%20fuels.html	34.0
+Ores, ferrous and non-ferrous	https://www.europages.co.uk/companies/pg-{}/ores,%20ferrous%20and%20non-ferrous.html	34.0
+Raw materials for construction and public...	https://www.europages.co.uk/companies/pg-{}/raw%20materials%20for%20construction%20and%20public%20works.html	34.0
+Water - production and distribution	https://www.europages.co.uk/companies/pg-{}/water%20-%20production%20and%20distribution.html	34.0
+Abrasives, mechanical	https://www.europages.co.uk/companies/pg-{}/abrasives,%20mechanical.html	34.0
+Aluminium and aluminium alloys	https://www.europages.co.uk/companies/pg-{}/aluminium%20and%20aluminium%20alloys.html	34.0
+Bearings - ball, needle and roller	https://www.europages.co.uk/companies/pg-{}/bearings%20-%20ball,%20needle%20and%20roller.html	34.0
+Blades and knives, industrial	https://www.europages.co.uk/companies/pg-{}/blades%20and%20knives,%20industrial.html	34.0
+Boilerwork	https://www.europages.co.uk/companies/pg-{}/boilerwork.html	34.0
+Cast iron items	https://www.europages.co.uk/companies/pg-{}/cast%20iron%20items.html	34.0
+Chains	https://www.europages.co.uk/companies/pg-{}/chains.html	34.0
+Copper and copper alloys	https://www.europages.co.uk/companies/pg-{}/copper%20and%20copper%20alloys.html	34.0
+Fastening devices	https://www.europages.co.uk/companies/pg-{}/fastening%20devices.html	34.0
+Finished Metal Products	https://www.europages.co.uk/companies/pg-{}/finished%20metal%20products.html	34.0
+Grids, gratings and wire mesh	https://www.europages.co.uk/companies/pg-{}/grids,%20gratings%20and%20wire%20mesh.html	34.0
+Hand tools, non-power	https://www.europages.co.uk/companies/pg-{}/hand%20tools,%20non-power.html	34.0
+Hardware, building construction	https://www.europages.co.uk/companies/pg-{}/hardware,%20building%20construction.html	34.0
+Houseware, metal	https://www.europages.co.uk/companies/pg-{}/houseware,%20metal.html	34.0
+Import-export - steels and metals	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20steels%20and%20metals.html	34.0
+Industrial building construction	https://www.europages.co.uk/companies/pg-{}/industrial%20building%20construction.html	34.0
+Industrial hardware	https://www.europages.co.uk/companies/pg-{}/industrial%20hardware.html	34.0
+Industrial piping	https://www.europages.co.uk/companies/pg-{}/industrial%20piping.html	34.0
+Iron alloys	https://www.europages.co.uk/companies/pg-{}/iron%20alloys.html	34.0
+Iron, special grade and pig iron	https://www.europages.co.uk/companies/pg-{}/iron,%20special%20grade%20and%20pig%20iron.html	34.0
+Knives and scissors for household and...	https://www.europages.co.uk/companies/pg-{}/knives%20and%20scissors%20for%20household%20and%20professional%20use.html	34.0
+Lead and lead alloys	https://www.europages.co.uk/companies/pg-{}/lead%20and%20lead%20alloys.html	34.0
+Locks, bolts and keys	https://www.europages.co.uk/companies/pg-{}/locks,%20bolts%20and%20keys.html	34.0
+Magnetic equipment	https://www.europages.co.uk/companies/pg-{}/magnetic%20equipment.html	34.0
+Metal construction, lightweight	https://www.europages.co.uk/companies/pg-{}/metal%20construction,%20lightweight.html	34.0
+Metals, precious and special	https://www.europages.co.uk/companies/pg-{}/metals,%20precious%20and%20special.html	34.0
+Moulds and patterns	https://www.europages.co.uk/companies/pg-{}/moulds%20and%20patterns.html	34.0
+Nuts and bolts	https://www.europages.co.uk/companies/pg-{}/nuts%20and%20bolts.html	34.0
+Packing and packaging materials, metal	https://www.europages.co.uk/companies/pg-{}/packing%20and%20packaging%20materials,%20metal.html	34.0
+Pipes and tubes - ferrous metal	https://www.europages.co.uk/companies/pg-{}/pipes%20and%20tubes%20-%20ferrous%20metal.html	34.0
+Pipes and tubes - non-ferrous metal	https://www.europages.co.uk/companies/pg-{}/pipes%20and%20tubes%20-%20non-ferrous%20metal.html	34.0
+Plumbing, domestic	https://www.europages.co.uk/companies/pg-{}/plumbing,%20domestic.html	34.0
+Plumbing, industrial	https://www.europages.co.uk/companies/pg-{}/plumbing,%20industrial.html	34.0
+Portable power tools	https://www.europages.co.uk/companies/pg-{}/portable%20power%20tools.html	34.0
+Safes and vaults	https://www.europages.co.uk/companies/pg-{}/safes%20and%20vaults.html	34.0
+Scaffolding and ladders	https://www.europages.co.uk/companies/pg-{}/scaffolding%20and%20ladders.html	34.0
+Sections and bars - ferrous metal	https://www.europages.co.uk/companies/pg-{}/sections%20and%20bars%20-%20ferrous%20metal.html	34.0
+Sections and bars - non-ferrous metal	https://www.europages.co.uk/companies/pg-{}/sections%20and%20bars%20-%20non-ferrous%20metal.html	34.0
+Sheet Metal & Tubes	https://www.europages.co.uk/companies/pg-{}/sheet%20metal%20&%20tubes.html	34.0
+Sheets and bands - ferrous metal	https://www.europages.co.uk/companies/pg-{}/sheets%20and%20bands%20-%20ferrous%20metal.html	34.0
+Sheets and bands - non-ferrous metal	https://www.europages.co.uk/companies/pg-{}/sheets%20and%20bands%20-%20non-ferrous%20metal.html	34.0
+Signs and signalling panels and boards	https://www.europages.co.uk/companies/pg-{}/signs%20and%20signalling%20panels%20and%20boards.html	34.0
+Springs	https://www.europages.co.uk/companies/pg-{}/springs.html	34.0
+Steel	https://www.europages.co.uk/companies/pg-{}/steel.html	34.0
+Steel & Metal Transformation	https://www.europages.co.uk/companies/pg-{}/steel%20&%20metal%20transformation.html	34.0
+Steel & Metals	https://www.europages.co.uk/companies/pg-{}/steel%20&%20metals.html	34.0
+Steel, special	https://www.europages.co.uk/companies/pg-{}/steel,%20special.html	34.0
+Steels and metals - forming and cutting	https://www.europages.co.uk/companies/pg-{}/steels%20and%20metals%20-%20forming%20and%20cutting.html	34.0
+Steels and metals - machining	https://www.europages.co.uk/companies/pg-{}/steels%20and%20metals%20-%20machining.html	34.0
+Steels and metals - surface treatment and...	https://www.europages.co.uk/companies/pg-{}/steels%20and%20metals%20-%20surface%20treatment%20and%20coating.html	34.0
+Steels and metals - welding and brazing	https://www.europages.co.uk/companies/pg-{}/steels%20and%20metals%20-%20welding%20and%20brazing.html	34.0
+Tin and tin alloys	https://www.europages.co.uk/companies/pg-{}/tin%20and%20tin%20alloys.html	34.0
+Wheels, castors and rollers	https://www.europages.co.uk/companies/pg-{}/wheels,%20castors%20and%20rollers.html	34.0
+Wires and cables - ferrous metal	https://www.europages.co.uk/companies/pg-{}/wires%20and%20cables%20-%20ferrous%20metal.html	34.0
+Wires and cables - non-ferrous metal	https://www.europages.co.uk/companies/pg-{}/wires%20and%20cables%20-%20non-ferrous%20metal.html	34.0
+Wrought iron	https://www.europages.co.uk/companies/pg-{}/wrought%20iron.html	34.0
+Zinc and zinc alloys	https://www.europages.co.uk/companies/pg-{}/zinc%20and%20zinc%20alloys.html	34.0
+Agricultural systems and equipment	https://www.europages.co.uk/companies/pg-{}/agricultural%20systems%20and%20equipment.html	34.0
+Agriculture and forestry - machinery and...	https://www.europages.co.uk/companies/pg-{}/agriculture%20and%20forestry%20-%20machinery%20and%20equipment.html	34.0
+Air conditioning, aeration and ventilation...	https://www.europages.co.uk/companies/pg-{}/air%20conditioning,%20aeration%20and%20ventilation%20equipment.html	34.0
+Air treatment - equipment and systems	https://www.europages.co.uk/companies/pg-{}/air%20treatment%20-%20equipment%20and%20systems.html	34.0
+Amusement parks - equipment and installations	https://www.europages.co.uk/companies/pg-{}/amusement%20parks%20-%20equipment%20and%20installations.html	34.0
+Automation - systems and equipment	https://www.europages.co.uk/companies/pg-{}/automation%20-%20systems%20and%20equipment.html	34.0
+Bakery and confectionery industry -...	https://www.europages.co.uk/companies/pg-{}/bakery%20and%20confectionery%20industry%20-%20machinery%20and%20equipment.html	34.0
+Beverage industry - machinery and equipment	https://www.europages.co.uk/companies/pg-{}/beverage%20industry%20-%20machinery%20and%20equipment.html	34.0
+Binding - machinery and equipment	https://www.europages.co.uk/companies/pg-{}/binding%20-%20machinery%20and%20equipment.html	34.0
+Brakes, servo-brakes and accessories	https://www.europages.co.uk/companies/pg-{}/brakes,%20servo-brakes%20and%20accessories.html	34.0
+Building materials, manufacture - machinery...	https://www.europages.co.uk/companies/pg-{}/building%20materials,%20manufacture%20-%20machinery%20and%20equipment.html	34.0
+Chemical and pharmaceutical industry -...	https://www.europages.co.uk/companies/pg-{}/chemical%20and%20pharmaceutical%20industry%20-%20machinery%20and%20equipment.html	34.0
+Cleaning machines, industrial	https://www.europages.co.uk/companies/pg-{}/cleaning%20machines,%20industrial.html	34.0
+Clothing industry - machinery and equipment	https://www.europages.co.uk/companies/pg-{}/clothing%20industry%20-%20machinery%20and%20equipment.html	34.0
+Clutches	https://www.europages.co.uk/companies/pg-{}/clutches.html	34.0
+Compressors	https://www.europages.co.uk/companies/pg-{}/compressors.html	34.0
+Construction machinery	https://www.europages.co.uk/companies/pg-{}/construction%20machinery.html	34.0
+Construction site installations and equipment	https://www.europages.co.uk/companies/pg-{}/construction%20site%20installations%20and%20equipment.html	34.0
+Cooling towers	https://www.europages.co.uk/companies/pg-{}/cooling%20towers.html	34.0
+Cranes and gantries	https://www.europages.co.uk/companies/pg-{}/cranes%20and%20gantries.html	34.0
+Crushing and grinding machinery	https://www.europages.co.uk/companies/pg-{}/crushing%20and%20grinding%20machinery.html	34.0
+Cutting - machine tools	https://www.europages.co.uk/companies/pg-{}/cutting%20-%20machine%20tools.html	34.0
+Dairies - machinery and equipment	https://www.europages.co.uk/companies/pg-{}/dairies%20-%20machinery%20and%20equipment.html	34.0
+Diamond tools	https://www.europages.co.uk/companies/pg-{}/diamond%20tools.html	34.0
+Drilling and test boring - equipment	https://www.europages.co.uk/companies/pg-{}/drilling%20and%20test%20boring%20-%20equipment.html	34.0
+Electric and electronic components -...	https://www.europages.co.uk/companies/pg-{}/electric%20and%20electronic%20components%20-%20machines%20for%20manufacturing.html	34.0
+Energy - production plants and equipment	https://www.europages.co.uk/companies/pg-{}/energy%20-%20production%20plants%20and%20equipment.html	34.0
+Energy sources, alternative - equipment and...	https://www.europages.co.uk/companies/pg-{}/energy%20sources,%20alternative%20-%20equipment%20and%20systems.html	34.0
+Engines & Parts	https://www.europages.co.uk/companies/pg-{}/engines%20&%20parts.html	34.0
+Engines, internal combustion	https://www.europages.co.uk/companies/pg-{}/engines,%20internal%20combustion.html	34.0
+Engines, internal combustion - components...	https://www.europages.co.uk/companies/pg-{}/engines,%20internal%20combustion%20-%20components%20and%20parts.html	34.0
+Environmental protection - machines and...	https://www.europages.co.uk/companies/pg-{}/environmental%20protection%20-%20machines%20and%20equipment.html	34.0
+Fastening devices - machines for production	https://www.europages.co.uk/companies/pg-{}/fastening%20devices%20-%20machines%20for%20production.html	34.0
+Filtering equipment and supplies	https://www.europages.co.uk/companies/pg-{}/filtering%20equipment%20and%20supplies.html	34.0
+Fire protection equipment	https://www.europages.co.uk/companies/pg-{}/fire%20protection%20equipment.html	34.0
+Food canning and preserving - machinery and...	https://www.europages.co.uk/companies/pg-{}/food%20canning%20and%20preserving%20-%20machinery%20and%20equipment.html	34.0
+Food industry - machinery and equipment	https://www.europages.co.uk/companies/pg-{}/food%20industry%20-%20machinery%20and%20equipment.html	34.0
+Garages and service stations - equipment and...	https://www.europages.co.uk/companies/pg-{}/garages%20and%20service%20stations%20-%20equipment%20and%20installations.html	34.0
+Gardening and horticulture - machinery and...	https://www.europages.co.uk/companies/pg-{}/gardening%20and%20horticulture%20-%20machinery%20and%20equipment.html	34.0
+Glass and ceramic manufacturing - machinery...	https://www.europages.co.uk/companies/pg-{}/glass%20and%20ceramic%20manufacturing%20-%20machinery%20and%20equipment.html	34.0
+Goods handling systems, continuous	https://www.europages.co.uk/companies/pg-{}/goods%20handling%20systems,%20continuous.html	34.0
+Greenhouses and glazing units	https://www.europages.co.uk/companies/pg-{}/greenhouses%20and%20glazing%20units.html	34.0
+Handling - Machines & Equipment	https://www.europages.co.uk/companies/pg-{}/handling%20-%20machines%20&%20equipment.html	34.0
+Handling of goods - motorized vehicles	https://www.europages.co.uk/companies/pg-{}/handling%20of%20goods%20-%20motorized%20vehicles.html	34.0
+Handling of goods - rolling equipment	https://www.europages.co.uk/companies/pg-{}/handling%20of%20goods%20-%20rolling%20equipment.html	34.0
+Heat exchangers	https://www.europages.co.uk/companies/pg-{}/heat%20exchangers.html	34.0
+Heating, domestic - installations and...	https://www.europages.co.uk/companies/pg-{}/heating,%20domestic%20-%20installations%20and%20equipment.html	34.0
+Heating, industrial - installations and...	https://www.europages.co.uk/companies/pg-{}/heating,%20industrial%20-%20installations%20and%20equipment.html	34.0
+Hotels, bars, cafés and restaurants -...	https://www.europages.co.uk/companies/pg-{}/hotels,%20bars,%20caf%C3%A9s%20and%20restaurants%20-%20machinery%20and%20equipment.html	34.0
+Hydraulic equipment	https://www.europages.co.uk/companies/pg-{}/hydraulic%20equipment.html	34.0
+Import-export - mechanical engineering	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20mechanical%20engineering.html	34.0
+Iron and steel industry and foundries -...	https://www.europages.co.uk/companies/pg-{}/iron%20and%20steel%20industry%20and%20foundries%20-%20machinery%20and%20installations.html	34.0
+Irrigation and sprinkling systems	https://www.europages.co.uk/companies/pg-{}/irrigation%20and%20sprinkling%20systems.html	34.0
+Jeweller's, watchmaker's, gold- and...	https://www.europages.co.uk/companies/pg-{}/jeweller%27s,%20watchmaker%27s,%20gold-%20and%20silversmith%27s%20machinery%20and%20equipment.html	34.0
+Laundry and dry cleaning machinery and...	https://www.europages.co.uk/companies/pg-{}/laundry%20and%20dry%20cleaning%20machinery%20and%20equipment.html	34.0
+Leather and skins - industrial machinery	https://www.europages.co.uk/companies/pg-{}/leather%20and%20skins%20-%20industrial%20machinery.html	34.0
+Lifting equipment	https://www.europages.co.uk/companies/pg-{}/lifting%20equipment.html	34.0
+Lifting equipment - accessories	https://www.europages.co.uk/companies/pg-{}/lifting%20equipment%20-%20accessories.html	34.0
+Lifts and escalators	https://www.europages.co.uk/companies/pg-{}/lifts%20and%20escalators.html	34.0
+Livestock raising - machinery and equipment	https://www.europages.co.uk/companies/pg-{}/livestock%20raising%20-%20machinery%20and%20equipment.html	34.0
+Locks, bolts and keys - manufacturing...	https://www.europages.co.uk/companies/pg-{}/locks,%20bolts%20and%20keys%20-%20manufacturing%20machinery.html	34.0
+Lubrication equipment and machinery	https://www.europages.co.uk/companies/pg-{}/lubrication%20equipment%20and%20machinery.html	34.0
+Machine tools - metal machining	https://www.europages.co.uk/companies/pg-{}/machine%20tools%20-%20metal%20machining.html	34.0
+Machine tools - metal shaping	https://www.europages.co.uk/companies/pg-{}/machine%20tools%20-%20metal%20shaping.html	34.0
+Machine tools, cutting - parts and...	https://www.europages.co.uk/companies/pg-{}/machine%20tools,%20cutting%20-%20parts%20and%20accessories.html	34.0
+Machine tools, metal machining - parts and...	https://www.europages.co.uk/companies/pg-{}/machine%20tools,%20metal%20machining%20-%20parts%20and%20accessories.html	34.0
+Machine tools, metal shaping - parts and...	https://www.europages.co.uk/companies/pg-{}/machine%20tools,%20metal%20shaping%20-%20parts%20and%20accessories.html	34.0
+Machinery and equipment, used and...	https://www.europages.co.uk/companies/pg-{}/machinery%20and%20equipment,%20used%20and%20reconditioned.html	34.0
+Marking and labelling machinery	https://www.europages.co.uk/companies/pg-{}/marking%20and%20labelling%20machinery.html	34.0
+Meats, butchery and delicatessen - machinery...	https://www.europages.co.uk/companies/pg-{}/meats,%20butchery%20and%20delicatessen%20-%20machinery%20and%20equipment.html	34.0
+Mechanical engineering - custom work	https://www.europages.co.uk/companies/pg-{}/mechanical%20engineering%20-%20custom%20work.html	34.0
+Mechanical transmission systems and...	https://www.europages.co.uk/companies/pg-{}/mechanical%20transmission%20systems%20and%20components.html	34.0
+Metal joinery, wrought-iron - machinery and...	https://www.europages.co.uk/companies/pg-{}/metal%20joinery,%20wrought-iron%20-%20machinery%20and%20equipment.html	34.0
+Metals - Machines & Equipment	https://www.europages.co.uk/companies/pg-{}/metals%20-%20machines%20&%20equipment.html	34.0
+Mining and quarrying - machinery and...	https://www.europages.co.uk/companies/pg-{}/mining%20and%20quarrying%20-%20machinery%20and%20equipment.html	34.0
+Ovens, kilns, furnaces and hearths,...	https://www.europages.co.uk/companies/pg-{}/ovens,%20kilns,%20furnaces%20and%20hearths,%20industrial.html	34.0
+Packing and packaging - machinery and...	https://www.europages.co.uk/companies/pg-{}/packing%20and%20packaging%20-%20machinery%20and%20equipment.html	34.0
+Painting machinery and equipment	https://www.europages.co.uk/companies/pg-{}/painting%20machinery%20and%20equipment.html	34.0
+Paper - Printing - Machines & Equipment	https://www.europages.co.uk/companies/pg-{}/paper%20-%20printing%20-%20machines%20&%20equipment.html	34.0
+Paper and cardboard manufacturing -...	https://www.europages.co.uk/companies/pg-{}/paper%20and%20cardboard%20manufacturing%20-%20machinery%20and%20equipment.html	34.0
+Pest control - machines and equipment	https://www.europages.co.uk/companies/pg-{}/pest%20control%20-%20machines%20and%20equipment.html	34.0
+Petrochemical industry - installations and...	https://www.europages.co.uk/companies/pg-{}/petrochemical%20industry%20-%20installations%20and%20equipment.html	34.0
+Plastics - industrial machinery and equipment	https://www.europages.co.uk/companies/pg-{}/plastics%20-%20industrial%20machinery%20and%20equipment.html	34.0
+Pneumatic systems and tools	https://www.europages.co.uk/companies/pg-{}/pneumatic%20systems%20and%20tools.html	34.0
+Printing and setting - machinery and...	https://www.europages.co.uk/companies/pg-{}/printing%20and%20setting%20-%20machinery%20and%20equipment.html	34.0
+Pumps	https://www.europages.co.uk/companies/pg-{}/pumps.html	34.0
+Refrigeration plants and equipment,...	https://www.europages.co.uk/companies/pg-{}/refrigeration%20plants%20and%20equipment,%20commercial%20and%20industrial.html	34.0
+Reprographics - machinery and equipment	https://www.europages.co.uk/companies/pg-{}/reprographics%20-%20machinery%20and%20equipment.html	34.0
+Road, beach and ski-slope maintenance -...	https://www.europages.co.uk/companies/pg-{}/road,%20beach%20and%20ski-slope%20maintenance%20-%20machinery%20and%20equipment.html	34.0
+Rubber - industrial machinery and equipment	https://www.europages.co.uk/companies/pg-{}/rubber%20-%20industrial%20machinery%20and%20equipment.html	34.0
+Safety equipment, work	https://www.europages.co.uk/companies/pg-{}/safety%20equipment,%20work.html	34.0
+Seals and packing material	https://www.europages.co.uk/companies/pg-{}/seals%20and%20packing%20material.html	34.0
+Ski lifts, chair lifts and cable cars	https://www.europages.co.uk/companies/pg-{}/ski%20lifts,%20chair%20lifts%20and%20cable%20cars.html	34.0
+Speed variators and reducers	https://www.europages.co.uk/companies/pg-{}/speed%20variators%20and%20reducers.html	34.0
+Storage and collection of waste - equipment	https://www.europages.co.uk/companies/pg-{}/storage%20and%20collection%20of%20waste%20-%20equipment.html	34.0
+Storage equipment and systems	https://www.europages.co.uk/companies/pg-{}/storage%20equipment%20and%20systems.html	34.0
+Surface treatment - machinery and equipment	https://www.europages.co.uk/companies/pg-{}/surface%20treatment%20-%20machinery%20and%20equipment.html	34.0
+Textiles - finishing, printing and dyeing...	https://www.europages.co.uk/companies/pg-{}/textiles%20-%20finishing,%20printing%20and%20dyeing%20machinery.html	34.0
+Textiles - preparation, spinning and weaving...	https://www.europages.co.uk/companies/pg-{}/textiles%20-%20preparation,%20spinning%20and%20weaving%20machinery.html	34.0
+Tobacco industry - machinery and equipment	https://www.europages.co.uk/companies/pg-{}/tobacco%20industry%20-%20machinery%20and%20equipment.html	34.0
+Tractors and trailers, agricultural	https://www.europages.co.uk/companies/pg-{}/tractors%20and%20trailers,%20agricultural.html	34.0
+Turbines	https://www.europages.co.uk/companies/pg-{}/turbines.html	34.0
+Waste treatment and recycling - machines and...	https://www.europages.co.uk/companies/pg-{}/waste%20treatment%20and%20recycling%20-%20machines%20and%20installations.html	34.0
+Water treatment, industrial - systems and...	https://www.europages.co.uk/companies/pg-{}/water%20treatment,%20industrial%20-%20systems%20and%20equipment.html	34.0
+Welding, soldering and brazing - equipment...	https://www.europages.co.uk/companies/pg-{}/welding,%20soldering%20and%20brazing%20-%20equipment%20and%20supplies.html	34.0
+Woodworking - machinery and equipment	https://www.europages.co.uk/companies/pg-{}/woodworking%20-%20machinery%20and%20equipment.html	34.0
+Aeronautical equipment manufacturers	https://www.europages.co.uk/companies/pg-{}/aeronautical%20equipment%20manufacturers.html	32.0
+Aerospace and aeronautics - construction	https://www.europages.co.uk/companies/pg-{}/aerospace%20and%20aeronautics%20-%20construction.html	32.0
+Bicycles, accessories and parts	https://www.europages.co.uk/companies/pg-{}/bicycles,%20accessories%20and%20parts.html	32.0
+Boats	https://www.europages.co.uk/companies/pg-{}/boats.html	32.0
+Buses and coaches	https://www.europages.co.uk/companies/pg-{}/buses%20and%20coaches.html	32.0
+Camping and caravans - vehicles, parts and...	https://www.europages.co.uk/companies/pg-{}/camping%20and%20caravans%20-%20vehicles,%20parts%20and%20accessories.html	32.0
+Cars	https://www.europages.co.uk/companies/pg-{}/cars.html	32.0
+Coachbuilding	https://www.europages.co.uk/companies/pg-{}/coachbuilding.html	32.0
+Containers	https://www.europages.co.uk/companies/pg-{}/containers.html	32.0
+Electric vehicles	https://www.europages.co.uk/companies/pg-{}/electric%20vehicles.html	32.0
+Import-export - vehicles and transport...	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20vehicles%20and%20transport%20equipment.html	32.0
+Lorries, vans and commercial vehicles	https://www.europages.co.uk/companies/pg-{}/lorries,%20vans%20and%20commercial%20vehicles.html	32.0
+Motorcycle parts and accessories	https://www.europages.co.uk/companies/pg-{}/motorcycle%20parts%20and%20accessories.html	32.0
+Motorcycles	https://www.europages.co.uk/companies/pg-{}/motorcycles.html	32.0
+Naval construction	https://www.europages.co.uk/companies/pg-{}/naval%20construction.html	32.0
+Pleasure boats	https://www.europages.co.uk/companies/pg-{}/pleasure%20boats.html	32.0
+Pleasure boats - components, engines and...	https://www.europages.co.uk/companies/pg-{}/pleasure%20boats%20-%20components,%20engines%20and%20equipment.html	32.0
+Railway stock and equipment	https://www.europages.co.uk/companies/pg-{}/railway%20stock%20and%20equipment.html	32.0
+Ship equipment	https://www.europages.co.uk/companies/pg-{}/ship%20equipment.html	32.0
+Ship maintenance and repairs	https://www.europages.co.uk/companies/pg-{}/ship%20maintenance%20and%20repairs.html	32.0
+Trailers and tip trailers, industrial	https://www.europages.co.uk/companies/pg-{}/trailers%20and%20tip%20trailers,%20industrial.html	32.0
+Vehicles - Telematics	https://www.europages.co.uk/companies/pg-{}/vehicles%20-%20telematics.html	32.0
+Vehicles - accessories and equipment	https://www.europages.co.uk/companies/pg-{}/vehicles%20-%20accessories%20and%20equipment.html	32.0
+Vehicles - electrical and electronic...	https://www.europages.co.uk/companies/pg-{}/vehicles%20-%20electrical%20and%20electronic%20components%20and%20parts.html	32.0
+Vehicles - mechanical components and parts	https://www.europages.co.uk/companies/pg-{}/vehicles%20-%20mechanical%20components%20and%20parts.html	32.0
+Vehicles, special - construction and...	https://www.europages.co.uk/companies/pg-{}/vehicles,%20special%20-%20construction%20and%20equipment.html	32.0
+Vehicles, used	https://www.europages.co.uk/companies/pg-{}/vehicles,%20used.html	32.0
+Anti-corrosion products, chemical	https://www.europages.co.uk/companies/pg-{}/anti-corrosion%20products,%20chemical.html	34.0
+Biotechnologies	https://www.europages.co.uk/companies/pg-{}/biotechnologies.html	34.0
+Chemistry - laboratory products	https://www.europages.co.uk/companies/pg-{}/chemistry%20-%20laboratory%20products.html	34.0
+Chemistry, inorganic - raw materials and...	https://www.europages.co.uk/companies/pg-{}/chemistry,%20inorganic%20-%20raw%20materials%20and%20derivatives.html	34.0
+Chemistry, organic - raw materials and...	https://www.europages.co.uk/companies/pg-{}/chemistry,%20organic%20-%20raw%20materials%20and%20derivatives.html	34.0
+Cleaning and maintenance products, household	https://www.europages.co.uk/companies/pg-{}/cleaning%20and%20maintenance%20products,%20household.html	53.0
+Cleaning and maintenance products, industrial	https://www.europages.co.uk/companies/pg-{}/cleaning%20and%20maintenance%20products,%20industrial.html	34.0
+Essences and fragrances - nonfood	https://www.europages.co.uk/companies/pg-{}/essences%20and%20fragrances%20-%20nonfood.html	34.0
+Explosives and fireworks	https://www.europages.co.uk/companies/pg-{}/explosives%20and%20fireworks.html	42.0
+Gases, compressed and liquefied	https://www.europages.co.uk/companies/pg-{}/gases,%20compressed%20and%20liquefied.html	34.0
+Glues, adhesives and applicators	https://www.europages.co.uk/companies/pg-{}/glues,%20adhesives%20and%20applicators.html	34.0
+Herbs for medicines and cosmetics	https://www.europages.co.uk/companies/pg-{}/herbs%20for%20medicines%20and%20cosmetics.html	39.0
+Hygiene and beauty articles	https://www.europages.co.uk/companies/pg-{}/hygiene%20and%20beauty%20articles.html	39.0
+Hygiene and toilet products	https://www.europages.co.uk/companies/pg-{}/hygiene%20and%20toilet%20products.html	39.0
+Import-export - chemicals and pharmaceuticals	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20chemicals%20and%20pharmaceuticals.html	39.0
+Inks	https://www.europages.co.uk/companies/pg-{}/inks.html	34.0
+Lubricants, industrial	https://www.europages.co.uk/companies/pg-{}/lubricants,%20industrial.html	34.0
+Paints and varnishes	https://www.europages.co.uk/companies/pg-{}/paints%20and%20varnishes.html	34.0
+Perfume and beauty products	https://www.europages.co.uk/companies/pg-{}/perfume%20and%20beauty%20products.html	30.0
+Petroleum - heavy derivatives	https://www.europages.co.uk/companies/pg-{}/petroleum%20-%20heavy%20derivatives.html	34.0
+Petroleum fuels and additives	https://www.europages.co.uk/companies/pg-{}/petroleum%20fuels%20and%20additives.html	34.0
+Pharmaceutical products	https://www.europages.co.uk/companies/pg-{}/pharmaceutical%20products.html	39.0
+Pharmaceuticals - basic and auxiliary...	https://www.europages.co.uk/companies/pg-{}/pharmaceuticals%20-%20basic%20and%20auxiliary%20products.html	39.0
+Phytosanitary products, fungicides and...	https://www.europages.co.uk/companies/pg-{}/phytosanitary%20products,%20fungicides%20and%20pesticides.html	34.0
+Pigments and dyes, nonfood	https://www.europages.co.uk/companies/pg-{}/pigments%20and%20dyes,%20nonfood.html	34.0
+Resins	https://www.europages.co.uk/companies/pg-{}/resins.html	34.0
+Solvents and thinners	https://www.europages.co.uk/companies/pg-{}/solvents%20and%20thinners.html	34.0
+Strippers and abrasives, chemical	https://www.europages.co.uk/companies/pg-{}/strippers%20and%20abrasives,%20chemical.html	34.0
+Veterinary products	https://www.europages.co.uk/companies/pg-{}/veterinary%20products.html	39.0
+Water treatment products	https://www.europages.co.uk/companies/pg-{}/water%20treatment%20products.html	34.0
+Asbestos-replacement products	https://www.europages.co.uk/companies/pg-{}/asbestos-replacement%20products.html	34.0
+Foams, rubber and plastic	https://www.europages.co.uk/companies/pg-{}/foams,%20rubber%20and%20plastic.html	34.0
+Import-export - rubber and plastic products	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20rubber%20and%20plastic%20products.html	34.0
+Plastic coatings and laminates	https://www.europages.co.uk/companies/pg-{}/plastic%20coatings%20and%20laminates.html	34.0
+Plastic floor coverings	https://www.europages.co.uk/companies/pg-{}/plastic%20floor%20coverings.html	34.0
+Plastics - construction industry	https://www.europages.co.uk/companies/pg-{}/plastics%20-%20construction%20industry.html	34.0
+Plastics - household products	https://www.europages.co.uk/companies/pg-{}/plastics%20-%20household%20products.html	34.0
+Plastics - industrial products	https://www.europages.co.uk/companies/pg-{}/plastics%20-%20industrial%20products.html	34.0
+Plastics - industrial raw materials	https://www.europages.co.uk/companies/pg-{}/plastics%20-%20industrial%20raw%20materials.html	34.0
+Plastics - packaging	https://www.europages.co.uk/companies/pg-{}/plastics%20-%20packaging.html	34.0
+Plastics - semi-finished products	https://www.europages.co.uk/companies/pg-{}/plastics%20-%20semi-finished%20products.html	34.0
+Polymers	https://www.europages.co.uk/companies/pg-{}/polymers.html	34.0
+Rubber - transformation into semi-finished...	https://www.europages.co.uk/companies/pg-{}/rubber%20-%20transformation%20into%20semi-finished%20products.html	34.0
+Rubber and derivatives	https://www.europages.co.uk/companies/pg-{}/rubber%20and%20derivatives.html	34.0
+Rubber and plastic - processing	https://www.europages.co.uk/companies/pg-{}/rubber%20and%20plastic%20-%20processing.html	34.0
+Rubber products	https://www.europages.co.uk/companies/pg-{}/rubber%20products.html	34.0
+Tubes and pipes, rubber and plastic	https://www.europages.co.uk/companies/pg-{}/tubes%20and%20pipes,%20rubber%20and%20plastic.html	34.0
+Tyres and accessories	https://www.europages.co.uk/companies/pg-{}/tyres%20and%20accessories.html	34.0
+Bathrooms - furniture and fittings	https://www.europages.co.uk/companies/pg-{}/bathrooms%20-%20furniture%20and%20fittings.html	34.0
+Beds, bedsteads and mattresses	https://www.europages.co.uk/companies/pg-{}/beds,%20bedsteads%20and%20mattresses.html	34.0
+Concert halls and scenography - equipment	https://www.europages.co.uk/companies/pg-{}/concert%20halls%20and%20scenography%20-%20equipment.html	34.0
+Cork products	https://www.europages.co.uk/companies/pg-{}/cork%20products.html	34.0
+Factory fittings	https://www.europages.co.uk/companies/pg-{}/factory%20fittings.html	34.0
+Framework, wood	https://www.europages.co.uk/companies/pg-{}/framework,%20wood.html	34.0
+Furnishing - supplies	https://www.europages.co.uk/companies/pg-{}/furnishing%20-%20supplies.html	34.0
+Furnishings - accessories and decorative...	https://www.europages.co.uk/companies/pg-{}/furnishings%20-%20accessories%20and%20decorative%20objects.html	34.0
+Furniture - hotels, bars, cafés and...	https://www.europages.co.uk/companies/pg-{}/furniture%20-%20hotels,%20bars,%20caf%C3%A9s%20and%20restaurants.html	34.0
+Furniture - reproductions	https://www.europages.co.uk/companies/pg-{}/furniture%20-%20reproductions.html	34.0
+Furniture - second-hand	https://www.europages.co.uk/companies/pg-{}/furniture%20-%20second-hand.html	34.0
+Furniture and decorations, garden	https://www.europages.co.uk/companies/pg-{}/furniture%20and%20decorations,%20garden.html	34.0
+Furniture and shelving, office	https://www.europages.co.uk/companies/pg-{}/furniture%20and%20shelving,%20office.html	34.0
+Furniture for Business	https://www.europages.co.uk/companies/pg-{}/furniture%20for%20business.html	34.0
+Furniture, children's bedroom	https://www.europages.co.uk/companies/pg-{}/furniture,%20children%27s%20bedroom.html	34.0
+Furniture, hospital	https://www.europages.co.uk/companies/pg-{}/furniture,%20hospital.html	34.0
+Furniture, household	https://www.europages.co.uk/companies/pg-{}/furniture,%20household.html	34.0
+Furniture, school	https://www.europages.co.uk/companies/pg-{}/furniture,%20school.html	34.0
+Gaming and billiard tables and accessories	https://www.europages.co.uk/companies/pg-{}/gaming%20and%20billiard%20tables%20and%20accessories.html	34.0
+Home Furniture	https://www.europages.co.uk/companies/pg-{}/home%20furniture.html	34.0
+Import-export - furniture and fittings	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20furniture%20and%20fittings.html	34.0
+Import-export - wood	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20wood.html	34.0
+Kitchens - furnishing	https://www.europages.co.uk/companies/pg-{}/kitchens%20-%20furnishing.html	34.0
+Metal furniture	https://www.europages.co.uk/companies/pg-{}/metal%20furniture.html	34.0
+Panels, wood	https://www.europages.co.uk/companies/pg-{}/panels,%20wood.html	34.0
+Parquet floors	https://www.europages.co.uk/companies/pg-{}/parquet%20floors.html	34.0
+Picture frames and framing	https://www.europages.co.uk/companies/pg-{}/picture%20frames%20and%20framing.html	34.0
+Seats and lounge suites	https://www.europages.co.uk/companies/pg-{}/seats%20and%20lounge%20suites.html	34.0
+Shop fittings	https://www.europages.co.uk/companies/pg-{}/shop%20fittings.html	34.0
+Tables and chairs	https://www.europages.co.uk/companies/pg-{}/tables%20and%20chairs.html	34.0
+Trade fairs and exhibitions - stand fittings	https://www.europages.co.uk/companies/pg-{}/trade%20fairs%20and%20exhibitions%20-%20stand%20fittings.html	34.0
+Wood - Finished Products	https://www.europages.co.uk/companies/pg-{}/wood%20-%20finished%20products.html	34.0
+Wood - packaging	https://www.europages.co.uk/companies/pg-{}/wood%20-%20packaging.html	34.0
+Wood - sawn and treated	https://www.europages.co.uk/companies/pg-{}/wood%20-%20sawn%20and%20treated.html	34.0
+Wood - semi-finished products	https://www.europages.co.uk/companies/pg-{}/wood%20-%20semi-finished%20products.html	34.0
+Wood and furnishing - treatment and...	https://www.europages.co.uk/companies/pg-{}/wood%20and%20furnishing%20-%20treatment%20and%20protection.html	34.0
+Wood products	https://www.europages.co.uk/companies/pg-{}/wood%20products.html	34.0
+Wood, undressed	https://www.europages.co.uk/companies/pg-{}/wood,%20undressed.html	34.0
+Buildings, prefabricated	https://www.europages.co.uk/companies/pg-{}/buildings,%20prefabricated.html	34.0
+Ceilings	https://www.europages.co.uk/companies/pg-{}/ceilings.html	34.0
+Construction - Finishings	https://www.europages.co.uk/companies/pg-{}/construction%20-%20finishings.html	34.0
+Consultants - construction and civil...	https://www.europages.co.uk/companies/pg-{}/consultants%20-%20construction%20and%20civil%20engineering.html	34.0
+Doors, house	https://www.europages.co.uk/companies/pg-{}/doors,%20house.html	34.0
+Doors, industrial	https://www.europages.co.uk/companies/pg-{}/doors,%20industrial.html	34.0
+Electrical and magnetic insulation	https://www.europages.co.uk/companies/pg-{}/electrical%20and%20magnetic%20insulation.html	34.0
+Fences and gates	https://www.europages.co.uk/companies/pg-{}/fences%20and%20gates.html	34.0
+Finishing work	https://www.europages.co.uk/companies/pg-{}/finishing%20work.html	34.0
+Fireplaces and stoves, ornamental and...	https://www.europages.co.uk/companies/pg-{}/fireplaces%20and%20stoves,%20ornamental%20and%20accessories.html	34.0
+Floors, industrial	https://www.europages.co.uk/companies/pg-{}/floors,%20industrial.html	34.0
+Import-export - construction and publics...	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20construction%20and%20publics%20works.html	34.0
+Landscaping contractors	https://www.europages.co.uk/companies/pg-{}/landscaping%20contractors.html	34.0
+Marine, port and underwater works -...	https://www.europages.co.uk/companies/pg-{}/marine,%20port%20and%20underwater%20works%20-%20contractors.html	34.0
+Partitions	https://www.europages.co.uk/companies/pg-{}/partitions.html	34.0
+Plumbing fixtures and accessories	https://www.europages.co.uk/companies/pg-{}/plumbing%20fixtures%20and%20accessories.html	34.0
+Public Works	https://www.europages.co.uk/companies/pg-{}/public%20works.html	34.0
+Public works contractors	https://www.europages.co.uk/companies/pg-{}/public%20works%20contractors.html	34.0
+Shutters	https://www.europages.co.uk/companies/pg-{}/shutters.html	34.0
+Sound insulation materials	https://www.europages.co.uk/companies/pg-{}/sound%20insulation%20materials.html	34.0
+Sports facilities	https://www.europages.co.uk/companies/pg-{}/sports%20facilities.html	34.0
+Stairs and handrails	https://www.europages.co.uk/companies/pg-{}/stairs%20and%20handrails.html	34.0
+Structural work	https://www.europages.co.uk/companies/pg-{}/structural%20work.html	34.0
+Sun protection, interior and exterior	https://www.europages.co.uk/companies/pg-{}/sun%20protection,%20interior%20and%20exterior.html	34.0
+Thermal insulation materials	https://www.europages.co.uk/companies/pg-{}/thermal%20insulation%20materials.html	34.0
+Urban fixtures and installations	https://www.europages.co.uk/companies/pg-{}/urban%20fixtures%20and%20installations.html	34.0
+Windows	https://www.europages.co.uk/companies/pg-{}/windows.html	34.0
+Bricks	https://www.europages.co.uk/companies/pg-{}/bricks.html	34.0
+Cement and additives	https://www.europages.co.uk/companies/pg-{}/cement%20and%20additives.html	34.0
+Ceramics, porcelain and earthenware -...	https://www.europages.co.uk/companies/pg-{}/ceramics,%20porcelain%20and%20earthenware%20-%20industrial%20products.html	34.0
+Coatings, putties and sealing products	https://www.europages.co.uk/companies/pg-{}/coatings,%20putties%20and%20sealing%20products.html	34.0
+Concrete products and conglomerates	https://www.europages.co.uk/companies/pg-{}/concrete%20products%20and%20conglomerates.html	34.0
+Construction Materials	https://www.europages.co.uk/companies/pg-{}/construction%20materials.html	34.0
+Crockery	https://www.europages.co.uk/companies/pg-{}/crockery.html	34.0
+Crystal glassware	https://www.europages.co.uk/companies/pg-{}/crystal%20glassware.html	34.0
+Glass	https://www.europages.co.uk/companies/pg-{}/glass.html	34.0
+Glass for the transport industry	https://www.europages.co.uk/companies/pg-{}/glass%20for%20the%20transport%20industry.html	34.0
+Glass hollowware	https://www.europages.co.uk/companies/pg-{}/glass%20hollowware.html	34.0
+Glass, industrial	https://www.europages.co.uk/companies/pg-{}/glass,%20industrial.html	34.0
+Glassware, decorative	https://www.europages.co.uk/companies/pg-{}/glassware,%20decorative.html	34.0
+Import-export - glass and glass products	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20glass%20and%20glass%20products.html	34.0
+Plaster and plaster products	https://www.europages.co.uk/companies/pg-{}/plaster%20and%20plaster%20products.html	34.0
+Plate glass and mirrors	https://www.europages.co.uk/companies/pg-{}/plate%20glass%20and%20mirrors.html	34.0
+Refractory materials and products	https://www.europages.co.uk/companies/pg-{}/refractory%20materials%20and%20products.html	34.0
+Roadlaying materials	https://www.europages.co.uk/companies/pg-{}/roadlaying%20materials.html	34.0
+Roofing materials	https://www.europages.co.uk/companies/pg-{}/roofing%20materials.html	34.0
+Tiles	https://www.europages.co.uk/companies/pg-{}/tiles.html	34.0
+Alarms and surveillance - systems and...	https://www.europages.co.uk/companies/pg-{}/alarms%20and%20surveillance%20-%20systems%20and%20equipment.html	34.0
+Beauty care - equipment	https://www.europages.co.uk/companies/pg-{}/beauty%20care%20-%20equipment.html	34.0
+Beauty care - instruments	https://www.europages.co.uk/companies/pg-{}/beauty%20care%20-%20instruments.html	34.0
+Clock and watch supplies	https://www.europages.co.uk/companies/pg-{}/clock%20and%20watch%20supplies.html	34.0
+Clock- and watchmaking	https://www.europages.co.uk/companies/pg-{}/clock-%20and%20watchmaking.html	34.0
+Clocks and time control, industrial	https://www.europages.co.uk/companies/pg-{}/clocks%20and%20time%20control,%20industrial.html	34.0
+Dentistry - accessories and supplies	https://www.europages.co.uk/companies/pg-{}/dentistry%20-%20accessories%20and%20supplies.html	34.0
+Dentistry - equipment and instruments	https://www.europages.co.uk/companies/pg-{}/dentistry%20-%20equipment%20and%20instruments.html	34.0
+Dosing - machines and equipment	https://www.europages.co.uk/companies/pg-{}/dosing%20-%20machines%20and%20equipment.html	34.0
+Eyeglass and contact lenses and accessories	https://www.europages.co.uk/companies/pg-{}/eyeglass%20and%20contact%20lenses%20and%20accessories.html	34.0
+Eyeglasses - frames and accessories	https://www.europages.co.uk/companies/pg-{}/eyeglasses%20-%20frames%20and%20accessories.html	34.0
+Hearing aids	https://www.europages.co.uk/companies/pg-{}/hearing%20aids.html	34.0
+Import-export - precision instruments	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20precision%20instruments.html	34.0
+Laser apparatus and instruments	https://www.europages.co.uk/companies/pg-{}/laser%20apparatus%20and%20instruments.html	34.0
+Measurement and regulation equipment and...	https://www.europages.co.uk/companies/pg-{}/measurement%20and%20regulation%20equipment%20and%20instruments%20-%20electricity%20and%20other%20energy.html	34.0
+Measurement and regulation equipment and...	https://www.europages.co.uk/companies/pg-{}/measurement%20and%20regulation%20equipment%20and%20instruments%20-%20output%20and%20flow.html	34.0
+Measurement and regulation equipment and...	https://www.europages.co.uk/companies/pg-{}/measurement%20and%20regulation%20equipment%20and%20instruments%20-%20pressure.html	34.0
+Measurement and regulation equipment and...	https://www.europages.co.uk/companies/pg-{}/measurement%20and%20regulation%20equipment%20and%20instruments%20-%20speed.html	34.0
+Measurement and regulation equipment and...	https://www.europages.co.uk/companies/pg-{}/measurement%20and%20regulation%20equipment%20and%20instruments%20-%20temperature.html	34.0
+Measurement equipment and instruments -...	https://www.europages.co.uk/companies/pg-{}/measurement%20equipment%20and%20instruments%20-%20position%20and%20distance.html	34.0
+Medical and surgical instruments	https://www.europages.co.uk/companies/pg-{}/medical%20and%20surgical%20instruments.html	34.0
+Medicine and surgery - apparatus and...	https://www.europages.co.uk/companies/pg-{}/medicine%20and%20surgery%20-%20apparatus%20and%20equipment.html	34.0
+Medicine and surgery - items and supplies	https://www.europages.co.uk/companies/pg-{}/medicine%20and%20surgery%20-%20items%20and%20supplies.html	34.0
+Monitoring and control equipment	https://www.europages.co.uk/companies/pg-{}/monitoring%20and%20control%20equipment.html	34.0
+Optical instruments	https://www.europages.co.uk/companies/pg-{}/optical%20instruments.html	34.0
+Orthopaedics and physiotherapy - apparatus,...	https://www.europages.co.uk/companies/pg-{}/orthopaedics%20and%20physiotherapy%20-%20apparatus,%20instruments%20and%20equipment.html	34.0
+Photographic and cinematographic...	https://www.europages.co.uk/companies/pg-{}/photographic%20and%20cinematographic%20laboratories%20-%20equipment.html	34.0
+Photography and cinema - photographic and...	https://www.europages.co.uk/companies/pg-{}/photography%20and%20cinema%20-%20photographic%20and%20projection%20equipment.html	34.0
+Scientific equipment and instruments	https://www.europages.co.uk/companies/pg-{}/scientific%20equipment%20and%20instruments.html	34.0
+Veterinary equipment and instruments	https://www.europages.co.uk/companies/pg-{}/veterinary%20equipment%20and%20instruments.html	34.0
+Weighing and dosing equipment	https://www.europages.co.uk/companies/pg-{}/weighing%20and%20dosing%20equipment.html	34.0
+Electronic data processing - computer...	https://www.europages.co.uk/companies/pg-{}/electronic%20data%20processing%20-%20computer%20peripherals.html	49.0
+Electronic data processing - microcomputers	https://www.europages.co.uk/companies/pg-{}/electronic%20data%20processing%20-%20microcomputers.html	49.0
+Electronic data processing - minicomputers...	https://www.europages.co.uk/companies/pg-{}/electronic%20data%20processing%20-%20minicomputers%20and%20mainframes.html	49.0
+Electronic data processing - software	https://www.europages.co.uk/companies/pg-{}/electronic%20data%20processing%20-%20software.html	49.0
+Import-export - Computers	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20computers.html	49.0
+Information technology - data processing...	https://www.europages.co.uk/companies/pg-{}/information%20technology%20-%20data%20processing%20media.html	49.0
+Information technology - supplies	https://www.europages.co.uk/companies/pg-{}/information%20technology%20-%20supplies.html	49.0
+Accumulators and batteries	https://www.europages.co.uk/companies/pg-{}/accumulators%20and%20batteries.html	49.0
+Active electronic components	https://www.europages.co.uk/companies/pg-{}/active%20electronic%20components.html	49.0
+Automatic dispensers	https://www.europages.co.uk/companies/pg-{}/automatic%20dispensers.html	49.0
+Automatic payment and cash handling systems	https://www.europages.co.uk/companies/pg-{}/automatic%20payment%20and%20cash%20handling%20systems.html	49.0
+Cables and wires, electric and telephone	https://www.europages.co.uk/companies/pg-{}/cables%20and%20wires,%20electric%20and%20telephone.html	49.0
+Cash registers	https://www.europages.co.uk/companies/pg-{}/cash%20registers.html	49.0
+Domestic appliances - large	https://www.europages.co.uk/companies/pg-{}/domestic%20appliances%20-%20large.html	49.0
+Domestic appliances - small	https://www.europages.co.uk/companies/pg-{}/domestic%20appliances%20-%20small.html	49.0
+Doors and gates, automatic and access control	https://www.europages.co.uk/companies/pg-{}/doors%20and%20gates,%20automatic%20and%20access%20control.html	49.0
+Electric motors and parts	https://www.europages.co.uk/companies/pg-{}/electric%20motors%20and%20parts.html	49.0
+Electric transformers, converters and...	https://www.europages.co.uk/companies/pg-{}/electric%20transformers,%20converters%20and%20rectifiers.html	49.0
+Electrical components and parts	https://www.europages.co.uk/companies/pg-{}/electrical%20components%20and%20parts.html	49.0
+Electrical systems and equipment	https://www.europages.co.uk/companies/pg-{}/electrical%20systems%20and%20equipment.html	49.0
+Electricity - distribution equipment	https://www.europages.co.uk/companies/pg-{}/electricity%20-%20distribution%20equipment.html	49.0
+Electricity generators	https://www.europages.co.uk/companies/pg-{}/electricity%20generators.html	49.0
+Electronic components	https://www.europages.co.uk/companies/pg-{}/electronic%20components.html	49.0
+Import-export - electrical and electronic...	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20electrical%20and%20electronic%20equipment.html	49.0
+Intermediary electronic transformations	https://www.europages.co.uk/companies/pg-{}/intermediary%20electronic%20transformations.html	49.0
+Light bulbs and tubes	https://www.europages.co.uk/companies/pg-{}/light%20bulbs%20and%20tubes.html	49.0
+Lighting, domestic and accessories	https://www.europages.co.uk/companies/pg-{}/lighting,%20domestic%20and%20accessories.html	49.0
+Lighting, street, industrial and commercial	https://www.europages.co.uk/companies/pg-{}/lighting,%20street,%20industrial%20and%20commercial.html	49.0
+Passive electronic components and printed...	https://www.europages.co.uk/companies/pg-{}/passive%20electronic%20components%20and%20printed%20circuits.html	49.0
+Radiology equipment	https://www.europages.co.uk/companies/pg-{}/radiology%20equipment.html	49.0
+Solar energy equipment	https://www.europages.co.uk/companies/pg-{}/solar%20energy%20equipment.html	49.0
+Cardboard manufacture	https://www.europages.co.uk/companies/pg-{}/cardboard%20manufacture.html	34.0
+Disposable tableware and articles made of...	https://www.europages.co.uk/companies/pg-{}/disposable%20tableware%20and%20articles%20made%20of%20paper,%20cardboard%20and%20plastic.html	34.0
+Import-export - paper and cardboard	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20paper%20and%20cardboard.html	34.0
+Packaging materials - paper and cardboard	https://www.europages.co.uk/companies/pg-{}/packaging%20materials%20-%20paper%20and%20cardboard.html	34.0
+Paper & Cardboard - Raw Materials	https://www.europages.co.uk/companies/pg-{}/paper%20&%20cardboard%20-%20raw%20materials.html	34.0
+Paper - raw materials	https://www.europages.co.uk/companies/pg-{}/paper%20-%20raw%20materials.html	34.0
+Paper - sanitary and domestic articles	https://www.europages.co.uk/companies/pg-{}/paper%20-%20sanitary%20and%20domestic%20articles.html	34.0
+Paper manufacture	https://www.europages.co.uk/companies/pg-{}/paper%20manufacture.html	34.0
+Stationery	https://www.europages.co.uk/companies/pg-{}/stationery.html	34.0
+Wall coverings	https://www.europages.co.uk/companies/pg-{}/wall%20coverings.html	34.0
+Bags, briefcases and handbags	https://www.europages.co.uk/companies/pg-{}/bags,%20briefcases%20and%20handbags.html	34.0
+Footwear	https://www.europages.co.uk/companies/pg-{}/footwear.html	34.0
+Import-export - leather and imitation leather	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20leather%20and%20imitation%20leather.html	34.0
+Leather - technical and medical articles	https://www.europages.co.uk/companies/pg-{}/leather%20-%20technical%20and%20medical%20articles.html	34.0
+Leather and shoes - supplies and accessories	https://www.europages.co.uk/companies/pg-{}/leather%20and%20shoes%20-%20supplies%20and%20accessories.html	34.0
+Leather goods, fine	https://www.europages.co.uk/companies/pg-{}/leather%20goods,%20fine.html	34.0
+Leather, skins and furs	https://www.europages.co.uk/companies/pg-{}/leather,%20skins%20and%20furs.html	34.0
+Saddlery	https://www.europages.co.uk/companies/pg-{}/saddlery.html	34.0
+Shoes, sports and leisure	https://www.europages.co.uk/companies/pg-{}/shoes,%20sports%20and%20leisure.html	34.0
+Travel accessories	https://www.europages.co.uk/companies/pg-{}/travel%20accessories.html	34.0
+Blankets, bedspreads, duvets and eiderdowns	https://www.europages.co.uk/companies/pg-{}/blankets,%20bedspreads,%20duvets%20and%20eiderdowns.html	34.0
+Clothes - second-hand	https://www.europages.co.uk/companies/pg-{}/clothes%20-%20second-hand.html	34.0
+Clothes, children's and baby	https://www.europages.co.uk/companies/pg-{}/clothes,%20children%27s%20and%20baby.html	34.0
+Clothes, men's	https://www.europages.co.uk/companies/pg-{}/clothes,%20men%27s.html	34.0
+Clothes, women's	https://www.europages.co.uk/companies/pg-{}/clothes,%20women%27s.html	34.0
+Clothing accessories	https://www.europages.co.uk/companies/pg-{}/clothing%20accessories.html	34.0
+Clothing industry supplies	https://www.europages.co.uk/companies/pg-{}/clothing%20industry%20supplies.html	34.0
+Clothing, fur	https://www.europages.co.uk/companies/pg-{}/clothing,%20fur.html	34.0
+Coats and raincoats	https://www.europages.co.uk/companies/pg-{}/coats%20and%20raincoats.html	34.0
+Cords and strings	https://www.europages.co.uk/companies/pg-{}/cords%20and%20strings.html	34.0
+Costumes, traditional costumes and disguises	https://www.europages.co.uk/companies/pg-{}/costumes,%20traditional%20costumes%20and%20disguises.html	34.0
+Fabrics	https://www.europages.co.uk/companies/pg-{}/fabrics.html	34.0
+Fabrics, coated	https://www.europages.co.uk/companies/pg-{}/fabrics,%20coated.html	34.0
+Fibres, artificial and synthetic	https://www.europages.co.uk/companies/pg-{}/fibres,%20artificial%20and%20synthetic.html	34.0
+Formal wear	https://www.europages.co.uk/companies/pg-{}/formal%20wear.html	34.0
+Furnishing fabrics	https://www.europages.co.uk/companies/pg-{}/furnishing%20fabrics.html	34.0
+Gloves	https://www.europages.co.uk/companies/pg-{}/gloves.html	34.0
+Hats and caps	https://www.europages.co.uk/companies/pg-{}/hats%20and%20caps.html	34.0
+Haute couture, luxury ready-to-wear	https://www.europages.co.uk/companies/pg-{}/haute%20couture,%20luxury%20ready-to-wear.html	34.0
+Import-export - textile and clothing	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20textile%20and%20clothing.html	34.0
+Jeans and casual wear	https://www.europages.co.uk/companies/pg-{}/jeans%20and%20casual%20wear.html	34.0
+Jumpers and pull-overs	https://www.europages.co.uk/companies/pg-{}/jumpers%20and%20pull-overs.html	34.0
+Leather and suede clothing	https://www.europages.co.uk/companies/pg-{}/leather%20and%20suede%20clothing.html	34.0
+Linen	https://www.europages.co.uk/companies/pg-{}/linen.html	34.0
+Lingerie, underwear and indoor clothing	https://www.europages.co.uk/companies/pg-{}/lingerie,%20underwear%20and%20indoor%20clothing.html	34.0
+Natural fibre preparing	https://www.europages.co.uk/companies/pg-{}/natural%20fibre%20preparing.html	34.0
+Natural textile waste	https://www.europages.co.uk/companies/pg-{}/natural%20textile%20waste.html	34.0
+Protective and work clothing	https://www.europages.co.uk/companies/pg-{}/protective%20and%20work%20clothing.html	34.0
+Ready-to-wear	https://www.europages.co.uk/companies/pg-{}/ready-to-wear.html	34.0
+Rugs and carpeting	https://www.europages.co.uk/companies/pg-{}/rugs%20and%20carpeting.html	34.0
+Shirts and blouses	https://www.europages.co.uk/companies/pg-{}/shirts%20and%20blouses.html	34.0
+Socks and stockings	https://www.europages.co.uk/companies/pg-{}/socks%20and%20stockings.html	34.0
+Sportswear	https://www.europages.co.uk/companies/pg-{}/sportswear.html	34.0
+Technical textiles	https://www.europages.co.uk/companies/pg-{}/technical%20textiles.html	34.0
+Tents and marquees	https://www.europages.co.uk/companies/pg-{}/tents%20and%20marquees.html	34.0
+Textile fibres, natural	https://www.europages.co.uk/companies/pg-{}/textile%20fibres,%20natural.html	34.0
+Textile finishing	https://www.europages.co.uk/companies/pg-{}/textile%20finishing.html	34.0
+Threads and fabrics, elastic	https://www.europages.co.uk/companies/pg-{}/threads%20and%20fabrics,%20elastic.html	34.0
+Threads and yarns	https://www.europages.co.uk/companies/pg-{}/threads%20and%20yarns.html	34.0
+Trimmings, embroidery and tulle	https://www.europages.co.uk/companies/pg-{}/trimmings,%20embroidery%20and%20tulle.html	34.0
+Art publishing - products	https://www.europages.co.uk/companies/pg-{}/art%20publishing%20-%20products.html	34.0
+Binding and finishing	https://www.europages.co.uk/companies/pg-{}/binding%20and%20finishing.html	34.0
+CD pressing	https://www.europages.co.uk/companies/pg-{}/cd%20pressing.html	34.0
+Composition, photocomposition and...	https://www.europages.co.uk/companies/pg-{}/composition,%20photocomposition%20and%20photoengraving.html	34.0
+Credit and identification cards - production	https://www.europages.co.uk/companies/pg-{}/credit%20and%20identification%20cards%20-%20production.html	34.0
+Import-export - books, newspapers and...	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20books,%20newspapers%20and%20periodicals.html	34.0
+Maps and plans	https://www.europages.co.uk/companies/pg-{}/maps%20and%20plans.html	34.0
+Marking - diverse products	https://www.europages.co.uk/companies/pg-{}/marking%20-%20diverse%20products.html	34.0
+Multimedia - Electronic publishing	https://www.europages.co.uk/companies/pg-{}/multimedia%20-%20electronic%20publishing.html	34.0
+Music publishing, pre-recorded audio and...	https://www.europages.co.uk/companies/pg-{}/music%20publishing,%20pre-recorded%20audio%20and%20video%20records%20and%20cassettes.html	34.0
+Newspapers and magazines	https://www.europages.co.uk/companies/pg-{}/newspapers%20and%20magazines.html	34.0
+Printing	https://www.europages.co.uk/companies/pg-{}/printing.html	34.0
+Printing and binding supplies	https://www.europages.co.uk/companies/pg-{}/printing%20and%20binding%20supplies.html	34.0
+Publishing, general	https://www.europages.co.uk/companies/pg-{}/publishing,%20general.html	34.0
+Publishing, miscellaneous items	https://www.europages.co.uk/companies/pg-{}/publishing,%20miscellaneous%20items.html	34.0
+Reprographics	https://www.europages.co.uk/companies/pg-{}/reprographics.html	34.0
+Silk-screen printing	https://www.europages.co.uk/companies/pg-{}/silk-screen%20printing.html	34.0
+Technical publishing	https://www.europages.co.uk/companies/pg-{}/technical%20publishing.html	34.0
+Air sports - equipment	https://www.europages.co.uk/companies/pg-{}/air%20sports%20-%20equipment.html	50.0
+Antiques	https://www.europages.co.uk/companies/pg-{}/antiques.html	55.0
+Art and art galleries	https://www.europages.co.uk/companies/pg-{}/art%20and%20art%20galleries.html	55.0
+Brushes and paint brushes	https://www.europages.co.uk/companies/pg-{}/brushes%20and%20paint%20brushes.html	55.0
+Camping equipment	https://www.europages.co.uk/companies/pg-{}/camping%20equipment.html	52.0
+Celebrations and parties - articles and...	https://www.europages.co.uk/companies/pg-{}/celebrations%20and%20parties%20-%20articles%20and%20decorations.html	30.0
+Child-care items	https://www.europages.co.uk/companies/pg-{}/child-care%20items.html	53.0
+Cleaning and maintenance - equipment and...	https://www.europages.co.uk/companies/pg-{}/cleaning%20and%20maintenance%20-%20equipment%20and%20supplies.html	34.0
+Costume jewellery	https://www.europages.co.uk/companies/pg-{}/costume%20jewellery.html	30.0
+Custom packaging	https://www.europages.co.uk/companies/pg-{}/custom%20packaging.html	34.0
+Design, graphic and plastic arts - products...	https://www.europages.co.uk/companies/pg-{}/design,%20graphic%20and%20plastic%20arts%20-%20products%20and%20supplies.html	34.0
+Diamonds	https://www.europages.co.uk/companies/pg-{}/diamonds.html	34.0
+Flags, insignia badges and trophies	https://www.europages.co.uk/companies/pg-{}/flags,%20insignia%20badges%20and%20trophies.html	34.0
+Funeral articles	https://www.europages.co.uk/companies/pg-{}/funeral%20articles.html	34.0
+Games and toys	https://www.europages.co.uk/companies/pg-{}/games%20and%20toys.html	30.0
+Gardening and horticulture - equipment and...	https://www.europages.co.uk/companies/pg-{}/gardening%20and%20horticulture%20-%20equipment%20and%20supplies.html	53.0
+Gold and silver articles	https://www.europages.co.uk/companies/pg-{}/gold%20and%20silver%20articles.html	34.0
+Gymnastics and physical training - equipment...	https://www.europages.co.uk/companies/pg-{}/gymnastics%20and%20physical%20training%20-%20equipment%20and%20supplies.html	50.0
+Handicraft	https://www.europages.co.uk/companies/pg-{}/handicraft.html	34.0
+Hunting and fishing equipment and special...	https://www.europages.co.uk/companies/pg-{}/hunting%20and%20fishing%20equipment%20and%20special%20products.html	30.0
+Hunting weapons and ammunition	https://www.europages.co.uk/companies/pg-{}/hunting%20weapons%20and%20ammunition.html	42.0
+Import-export - agents	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20agents.html	34.0
+Import-export - jewellery, precious stones,...	https://www.europages.co.uk/companies/pg-{}/import-export%20-%20jewellery,%20precious%20stones,%20watches%20and%20clocks.html	34.0
+Jewellery and bijouterie	https://www.europages.co.uk/companies/pg-{}/jewellery%20and%20bijouterie.html	34.0
+Musical instruments and accessories	https://www.europages.co.uk/companies/pg-{}/musical%20instruments%20and%20accessories.html	30.0
+Office supplies	https://www.europages.co.uk/companies/pg-{}/office%20supplies.html	34.0
+Pet supplies	https://www.europages.co.uk/companies/pg-{}/pet%20supplies.html	53.0
+Precious and semiprecious stones and pearls	https://www.europages.co.uk/companies/pg-{}/precious%20and%20semiprecious%20stones%20and%20pearls.html	34.0
+Religious articles	https://www.europages.co.uk/companies/pg-{}/religious%20articles.html	47.0
+Second-hand items	https://www.europages.co.uk/companies/pg-{}/second-hand%20items.html	34.0
+Souvenirs and advertising items	https://www.europages.co.uk/companies/pg-{}/souvenirs%20and%20advertising%20items.html	54.0
+Sports articles	https://www.europages.co.uk/companies/pg-{}/sports%20articles.html	50.0
+Tableware	https://www.europages.co.uk/companies/pg-{}/tableware.html	34.0
+Teaching materials	https://www.europages.co.uk/companies/pg-{}/teaching%20materials.html	36.0
+Tobacco and smokers items	https://www.europages.co.uk/companies/pg-{}/tobacco%20and%20smokers%20items.html	14.0
+Water sports - equipment	https://www.europages.co.uk/companies/pg-{}/water%20sports%20-%20equipment.html	50.0
+Wigs and hairpieces	https://www.europages.co.uk/companies/pg-{}/wigs%20and%20hairpieces.html	34.0
+Air Transport	https://www.europages.co.uk/companies/pg-{}/air%20transport.html	32.0
+Air-freight services	https://www.europages.co.uk/companies/pg-{}/air-freight%20services.html	32.0
+Airline companies	https://www.europages.co.uk/companies/pg-{}/airline%20companies.html	32.0
+Airports	https://www.europages.co.uk/companies/pg-{}/airports.html	32.0
+Ambulance and funeral transport	https://www.europages.co.uk/companies/pg-{}/ambulance%20and%20funeral%20transport.html	32.0
+Goods transport	https://www.europages.co.uk/companies/pg-{}/goods%20transport.html	32.0
+Groupage services	https://www.europages.co.uk/companies/pg-{}/groupage%20services.html	32.0
+International couriers and delivery services	https://www.europages.co.uk/companies/pg-{}/international%20couriers%20and%20delivery%20services.html	32.0
+International transport agents	https://www.europages.co.uk/companies/pg-{}/international%20transport%20agents.html	32.0
+Port services	https://www.europages.co.uk/companies/pg-{}/port%20services.html	32.0
+Rail transport	https://www.europages.co.uk/companies/pg-{}/rail%20transport.html	32.0
+Removals and relocation - international	https://www.europages.co.uk/companies/pg-{}/removals%20and%20relocation%20-%20international.html	32.0
+River transport	https://www.europages.co.uk/companies/pg-{}/river%20transport.html	32.0
+Road transport	https://www.europages.co.uk/companies/pg-{}/road%20transport.html	32.0
+Road transport - tankers	https://www.europages.co.uk/companies/pg-{}/road%20transport%20-%20tankers.html	32.0
+Roads and motorways - operation and services	https://www.europages.co.uk/companies/pg-{}/roads%20and%20motorways%20-%20operation%20and%20services.html	32.0
+Sea & River Transport	https://www.europages.co.uk/companies/pg-{}/sea%20&%20river%20transport.html	32.0
+Security transport - money and valuables	https://www.europages.co.uk/companies/pg-{}/security%20transport%20-%20money%20and%20valuables.html	32.0
+Ship brokers	https://www.europages.co.uk/companies/pg-{}/ship%20brokers.html	32.0
+Ship chandlers	https://www.europages.co.uk/companies/pg-{}/ship%20chandlers.html	32.0
+Shipowners	https://www.europages.co.uk/companies/pg-{}/shipowners.html	32.0
+Shipping companies - lines	https://www.europages.co.uk/companies/pg-{}/shipping%20companies%20-%20lines.html	32.0
+Transport - animals	https://www.europages.co.uk/companies/pg-{}/transport%20-%20animals.html	32.0
+Transport - art and antiquities	https://www.europages.co.uk/companies/pg-{}/transport%20-%20art%20and%20antiquities.html	32.0
+Transport - motor vehicles and boats	https://www.europages.co.uk/companies/pg-{}/transport%20-%20motor%20vehicles%20and%20boats.html	32.0
+Transport - refrigerated	https://www.europages.co.uk/companies/pg-{}/transport%20-%20refrigerated.html	32.0
+Transport - wide and long loads	https://www.europages.co.uk/companies/pg-{}/transport%20-%20wide%20and%20long%20loads.html	32.0
+Travel and tourism	https://www.europages.co.uk/companies/pg-{}/travel%20and%20tourism.html	32.0
+Vehicle rental	https://www.europages.co.uk/companies/pg-{}/vehicle%20rental.html	32.0
+Warehouses and bonded warehouses	https://www.europages.co.uk/companies/pg-{}/warehouses%20and%20bonded%20warehouses.html	32.0
+Agritourism	https://www.europages.co.uk/companies/pg-{}/agritourism.html	52.0
+Congresses, seminars, receptions -...	https://www.europages.co.uk/companies/pg-{}/congresses,%20seminars,%20receptions%20-%20organisation%20and%20services.html	52.0
+Hospitality industry	https://www.europages.co.uk/companies/pg-{}/hospitality%20industry.html	52.0
+Hotel	https://www.europages.co.uk/companies/pg-{}/hotel.html	52.0
+Restaurants, caterers and meal deliveries	https://www.europages.co.uk/companies/pg-{}/restaurants,%20caterers%20and%20meal%20deliveries.html	30.0
+Sport and leisure	https://www.europages.co.uk/companies/pg-{}/sport%20and%20leisure.html	50.0
+Trade fairs, exhibitions, shows -...	https://www.europages.co.uk/companies/pg-{}/trade%20fairs,%20exhibitions,%20shows%20-%20organisation.html	30.0
+Advertising agencies	https://www.europages.co.uk/companies/pg-{}/advertising%20agencies.html	59.0
+Advertising design - graphic artists and...	https://www.europages.co.uk/companies/pg-{}/advertising%20design%20-%20graphic%20artists%20and%20designers.html	59.0
+Advertising management	https://www.europages.co.uk/companies/pg-{}/advertising%20management.html	59.0
+Audio-video advertising - production	https://www.europages.co.uk/companies/pg-{}/audio-video%20advertising%20-%20production.html	59.0
+Audio-visual - production and distribution	https://www.europages.co.uk/companies/pg-{}/audio-visual%20-%20production%20and%20distribution.html	59.0
+Communication	https://www.europages.co.uk/companies/pg-{}/communication.html	59.0
+Direct marketing	https://www.europages.co.uk/companies/pg-{}/direct%20marketing.html	59.0
+Events marketing	https://www.europages.co.uk/companies/pg-{}/events%20marketing.html	59.0
+Marketing - research	https://www.europages.co.uk/companies/pg-{}/marketing%20-%20research.html	59.0
+Multimedia - Internet and Intranet services	https://www.europages.co.uk/companies/pg-{}/multimedia%20-%20internet%20and%20intranet%20services.html	49.0
+Performing arts - production and distribution	https://www.europages.co.uk/companies/pg-{}/performing%20arts%20-%20production%20and%20distribution.html	59.0
+Photographs - production and distribution	https://www.europages.co.uk/companies/pg-{}/photographs%20-%20production%20and%20distribution.html	59.0
+Point-of-sale advertising	https://www.europages.co.uk/companies/pg-{}/point-of-sale%20advertising.html	59.0
+Press agencies, international	https://www.europages.co.uk/companies/pg-{}/press%20agencies,%20international.html	59.0
+Sales promotion	https://www.europages.co.uk/companies/pg-{}/sales%20promotion.html	59.0
+Telephone marketing	https://www.europages.co.uk/companies/pg-{}/telephone%20marketing.html	59.0
+Ticketing	https://www.europages.co.uk/companies/pg-{}/ticketing.html	59.0
+Banks	https://www.europages.co.uk/companies/pg-{}/banks.html	37.0
+Finance and credit companies	https://www.europages.co.uk/companies/pg-{}/finance%20and%20credit%20companies.html	37.0
+Finance, guarantee and management of credit	https://www.europages.co.uk/companies/pg-{}/finance,%20guarantee%20and%20management%20of%20credit.html	37.0
+Financial advisers	https://www.europages.co.uk/companies/pg-{}/financial%20advisers.html	37.0
+Financial experts	https://www.europages.co.uk/companies/pg-{}/financial%20experts.html	37.0
+Holding companies	https://www.europages.co.uk/companies/pg-{}/holding%20companies.html	37.0
+Insurance	https://www.europages.co.uk/companies/pg-{}/insurance.html	37.0
+Investment consultants	https://www.europages.co.uk/companies/pg-{}/investment%20consultants.html	37.0
+Management advice	https://www.europages.co.uk/companies/pg-{}/management%20advice.html	37.0
+Stock and commodity markets	https://www.europages.co.uk/companies/pg-{}/stock%20and%20commodity%20markets.html	37.0
+Stockbrokers	https://www.europages.co.uk/companies/pg-{}/stockbrokers.html	37.0
+Associations and organisations	https://www.europages.co.uk/companies/pg-{}/associations%20and%20organisations.html	59.0
+Business information	https://www.europages.co.uk/companies/pg-{}/business%20information.html	59.0
+Catering services	https://www.europages.co.uk/companies/pg-{}/catering%20services.html	30.0
+Chambers of commerce and industry	https://www.europages.co.uk/companies/pg-{}/chambers%20of%20commerce%20and%20industry.html	54.0
+Cleaning services	https://www.europages.co.uk/companies/pg-{}/cleaning%20services.html	34.0
+Construction and production control	https://www.europages.co.uk/companies/pg-{}/construction%20and%20production%20control.html	59.0
+Crop services	https://www.europages.co.uk/companies/pg-{}/crop%20services.html	34.0
+Data banks	https://www.europages.co.uk/companies/pg-{}/data%20banks.html	49.0
+Designers	https://www.europages.co.uk/companies/pg-{}/designers.html	34.0
+Diplomatic and consular missions	https://www.europages.co.uk/companies/pg-{}/diplomatic%20and%20consular%20missions.html	43.0
+Energy and raw materials - services to...	https://www.europages.co.uk/companies/pg-{}/energy%20and%20raw%20materials%20-%20services%20to%20industry.html	34.0
+Engineering - industrial contractors	https://www.europages.co.uk/companies/pg-{}/engineering%20-%20industrial%20contractors.html	34.0
+Environment - services	https://www.europages.co.uk/companies/pg-{}/environment%20-%20services.html	34.0
+Equipped offices and industrial premises -...	https://www.europages.co.uk/companies/pg-{}/equipped%20offices%20and%20industrial%20premises%20-%20services.html	34.0
+General, continuous and specialist training...	https://www.europages.co.uk/companies/pg-{}/general,%20continuous%20and%20specialist%20training%20courses.html	36.0
+Industrial consultants	https://www.europages.co.uk/companies/pg-{}/industrial%20consultants.html	59.0
+Industrial equipment hire	https://www.europages.co.uk/companies/pg-{}/industrial%20equipment%20hire.html	34.0
+Industrial maintenance	https://www.europages.co.uk/companies/pg-{}/industrial%20maintenance.html	34.0
+Information systems - advice	https://www.europages.co.uk/companies/pg-{}/information%20systems%20-%20advice.html	49.0
+Interpreting	https://www.europages.co.uk/companies/pg-{}/interpreting.html	34.0
+Investigations - business	https://www.europages.co.uk/companies/pg-{}/investigations%20-%20business.html	59.0
+Language schools	https://www.europages.co.uk/companies/pg-{}/language%20schools.html	36.0
+Legal counselling	https://www.europages.co.uk/companies/pg-{}/legal%20counselling.html	43.0
+Livestock - services	https://www.europages.co.uk/companies/pg-{}/livestock%20-%20services.html	34.0
+Modelling agencies	https://www.europages.co.uk/companies/pg-{}/modelling%20agencies.html	30.0
+Outsourcing of financial services and...	https://www.europages.co.uk/companies/pg-{}/outsourcing%20of%20financial%20services%20and%20administration.html	37.0
+Packaging contractors	https://www.europages.co.uk/companies/pg-{}/packaging%20contractors.html	34.0
+Patents and trademark protection	https://www.europages.co.uk/companies/pg-{}/patents%20and%20trademark%20protection.html	43.0
+Personal assistance services	https://www.europages.co.uk/companies/pg-{}/personal%20assistance%20services.html	59.0
+Personnel recruitment, international	https://www.europages.co.uk/companies/pg-{}/personnel%20recruitment,%20international.html	59.0
+Professional federations, associations and...	https://www.europages.co.uk/companies/pg-{}/professional%20federations,%20associations%20and%20unions.html	59.0
+Protection and security services	https://www.europages.co.uk/companies/pg-{}/protection%20and%20security%20services.html	59.0
+Quality control and certification	https://www.europages.co.uk/companies/pg-{}/quality%20control%20and%20certification.html	59.0
+Real estate, business and industrial -...	https://www.europages.co.uk/companies/pg-{}/real%20estate,%20business%20and%20industrial%20-%20developers%20and%20agencies.html	59.0
+Recruitment agency	https://www.europages.co.uk/companies/pg-{}/recruitment%20agency.html	41.0
+Recycling and recovery - miscellaneous...	https://www.europages.co.uk/companies/pg-{}/recycling%20and%20recovery%20-%20miscellaneous%20materials.html	34.0
+Repairs - consumer goods	https://www.europages.co.uk/companies/pg-{}/repairs%20-%20consumer%20goods.html	34.0
+Repairs - industrial equipment	https://www.europages.co.uk/companies/pg-{}/repairs%20-%20industrial%20equipment.html	34.0
+Resource centres	https://www.europages.co.uk/companies/pg-{}/resource%20centres.html	59.0
+Retailing outlets	https://www.europages.co.uk/companies/pg-{}/retailing%20outlets.html	54.0
+Scientific research centres and laboratories	https://www.europages.co.uk/companies/pg-{}/scientific%20research%20centres%20and%20laboratories.html	51.0
+Testing of products and materials	https://www.europages.co.uk/companies/pg-{}/testing%20of%20products%20and%20materials.html	34.0
+Trade organisations	https://www.europages.co.uk/companies/pg-{}/trade%20organisations.html	54.0
+Translation	https://www.europages.co.uk/companies/pg-{}/translation.html	59.0
+Vehicles - services	https://www.europages.co.uk/companies/pg-{}/vehicles%20-%20services.html	32.0
+Health centres	https://www.europages.co.uk/companies/pg-{}/health%20centres.html	39.0
+Hospital and medical services	https://www.europages.co.uk/companies/pg-{}/hospital%20and%20medical%20services.html	39.0
+Medical Equipment	https://www.europages.co.uk/companies/pg-{}/medical%20equipment.html	39.0
+Patient telemonitoring	https://www.europages.co.uk/companies/pg-{}/patient%20telemonitoring.html	39.0
+Social services	https://www.europages.co.uk/companies/pg-{}/social%20services.html	39.0
